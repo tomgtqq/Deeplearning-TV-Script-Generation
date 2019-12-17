@@ -2,7 +2,7 @@
 
 The project is RRN for Udacity deeplearning nd .The Neural Network generate Seinfeld TV scripts using RNNs, based on patterns it recognizes in the training data.
 
-![seinfeld_script.png](src/seinfeld_script.png)
+![seinfeld_script_picture.png](src/seinfeld_script_picture.png)
 
 ## Prerequisites
 
